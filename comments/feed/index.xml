@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Dwellic	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://abhigenva.github.io/Dwellic/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abhigenva.github.io/Dwellic/</link>
 	<description>Designing Your Real Estate Success Story</description>
 	<lastBuildDate>Tue, 12 Sep 2023 17:20:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
